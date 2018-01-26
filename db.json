@@ -1,6 +1,6 @@
-{
+
 [{'name':'abc','gender':'M','age':'34','description':'none'},
 {'name':'def','gender':'F','age':'35','description':'bla'},
 {'name':'ghi','gender':'M','age':'36','description':'bla'},
 {'name':'jkl','gender':'F','age':'37','description':'bla bla bla'}]
-}
+
